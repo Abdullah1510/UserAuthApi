@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:8045", // Ensure this matches your actual server URL
+        url: `https://userauthapi-gh1l.onrender.com`,
       },
     ],
   },
